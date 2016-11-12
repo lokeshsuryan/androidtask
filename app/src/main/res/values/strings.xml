@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="content_desc">Image View</string>
+    <string name="btn_bookmark">Bookmark</string>
+    <string name="btn_bookmarked">Bookmarked</string>
+    <string name="btn_tag">Tag</string>
+    <string name="btn_size">Size</string>
+</resources>
